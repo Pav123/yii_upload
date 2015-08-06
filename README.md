@@ -1,2 +1,2 @@
 # yii_upload
-upload files from cgidview
+upload files from cgridview
